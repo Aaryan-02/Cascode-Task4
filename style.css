@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@500&display=swap');
+
+body{
+    background-image: url('./R.jpeg');
+}
+.f1-size{
+    font-weight: 700;
+    font-size: 25px;
+}
+.f2-size{
+    font-weight: 500;
+}
